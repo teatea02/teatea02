@@ -1,2 +1,2 @@
 # Welcome to my Github!
-[![taewook's github stats](https://github-readme-stats.vercel.app/api?username=teatea02&them=default&show_icons=true?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![taewook's github stats](https://github-readme-stats.vercel.app/api?username=teatea02&theme=vue&show_icons=true?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
